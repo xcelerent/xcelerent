@@ -10,7 +10,7 @@ Reporting is where most teams start. The same governed pipeline also covers know
 
 #### What Xcelerent does
 
-| | |
+| Area | Services |
 |---|---|
 | Report & document automation | [Enterprise Document Generation](https://xcelerent.com/services/docmark/) · [AI workflow value check](https://xcelerent.com/services/ai-value-check/) |
 | Knowledge & AI | [Enterprise Knowledge Management](https://xcelerent.com/services/enterprise-knowledge-management/) · [Private AI Deployment](https://xcelerent.com/services/private-ai-deployment/) · [AI Chatbots & Assistants](https://xcelerent.com/services/ai-chatbots/) · [AI Voice Assistants](https://xcelerent.com/services/ai-voice/) |
